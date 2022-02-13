@@ -29,8 +29,6 @@ flutter:
       android:
         package: com.yuanchongyu.g_captcha
         pluginClass: GCaptchaPlugin
-      ios:
-        pluginClass: GCaptchaPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
